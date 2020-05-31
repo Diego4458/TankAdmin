@@ -1,0 +1,16 @@
+{
+  "name": "TankAdmin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SkelletonX/TankAdmin.git",
+  "author": "Diego del Rio <40145391+Diego4458@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.11",
+    "tedious": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
